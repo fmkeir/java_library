@@ -4,7 +4,6 @@
     <list default="true" id="437fc83d-dec5-414a-b8d5-bd9b3f3126d6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BorrowerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BorrowerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LibraryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Library.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/LibraryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LibraryTest.class" afterDir="false" />
@@ -44,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="JUnit.All in Library">
+  <component name="RunManager" selected="JUnit.LibraryTest">
     <configuration name="All in Library" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Library" />
       <option name="PACKAGE_NAME" value="" />
@@ -83,8 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in Library" />
         <item itemvalue="JUnit.LibraryTest" />
+        <item itemvalue="JUnit.All in Library" />
         <item itemvalue="JUnit.LibraryTest.canRemoveBookByName" />
         <item itemvalue="JUnit.BookTest" />
       </list>
@@ -104,21 +103,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1585073634605">
+    <state x="100" y="123" width="1240" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585075866458">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-271.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585073634605" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1585073634605">
+    <state x="100" y="123" width="1240" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-271.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585075866458" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1585076517463">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/-271.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585073634605" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1585073634604">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-271.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585076517463" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1585076517462">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/-271.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585073634604" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1585073634605">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/-271.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585076517462" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1585076517462">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/-271.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585073634605" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/-271.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585076517462" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1585076517463">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/-271.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585076517463" />
   </component>
 </project>
