@@ -22,4 +22,13 @@ public class Library {
             this.books.add(book);
         }
     }
+
+    public Book removeBook(String bookname) {
+        for (Book book : this.books) {
+            if (book.getName() == bookname) {
+                return book;
+            }
+        }
+        return null;
+    }
 }

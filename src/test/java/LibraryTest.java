@@ -32,4 +32,17 @@ public class LibraryTest {
         library.addBook(book2);
         assertEquals(1, library.countBooks());
     }
+
+    @Test
+    public void canRemoveBookByName() {
+        library.addBook(book1);
+        Book removedBook = library.removeBook("Harry Potter");
+        assertEquals(book1, removedBook);
+    }
+
+    @Test
+    public void cantRemoveBookIfNotThere() {
+        Book removedBook = library.removeBook("Lord of the Rings");
+        assertEquals(null, removedBook);
+    }
 }

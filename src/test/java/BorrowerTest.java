@@ -26,10 +26,4 @@ public class BorrowerTest {
         borrower.takeBook(library, "Deep Work");
         assertEquals(1, borrower.countBooks());
     }
-
-    @Test
-    public void cantAddBookIfNotThere() {
-        borrower.takeBook(library, "Harry Potter");
-        assertEquals(0, borrower.countBooks());
-    }
 }
